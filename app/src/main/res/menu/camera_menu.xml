@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/take_photo" android:title="Capturar" android:titleCondensed="Capturar" />
+    <item android:id="@+id/switch_cam" android:title="@string/switch_cam" android:titleCondensed="Cambiar Camara"/>
+    <item android:id="@+id/item1" android:title="Cambiar" android:titleCondensed="cambiar"></item>
+    <!--<item android:id="@+id/item2" android:title="Salir" android:titleCondensed="Salir"></item>-->
+</menu>

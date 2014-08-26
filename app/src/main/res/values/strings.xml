@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Puls</string>
+    <string name="title_activity_maps">Puls</string>
+    <string name="searchme">Buscame</string>
+    <string name="switch_cam">Switch Camera</string>
+    <string name="you_location">Aqui estoy</string>
+    <string name="state">Estado</string>
+</resources>

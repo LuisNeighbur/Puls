@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/refresh" android:title="Actualizar"/>
+    <item android:id="@+id/take_photo" android:title="Tomar foto" android:titleCondensed="Tomar foto"></item>
+    <item android:id="@+id/salir" android:title="Salir" android:titleCondensed="Salir"></item>
+</menu>
